@@ -3,4 +3,3 @@
 
 <h3>⏳ IN PROGRESS...</h3>
 
-Website Link: https://caiodanelli.github.io/LandingPageApple/
