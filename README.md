@@ -3,7 +3,7 @@
 
 <h3>✅ Style with CSS</h3>
 
-<h3>✅ Add the Images</h3>
+<h3>✅ Add the images</h3>
 
 <h3>⏳ IN PROGRESS...</h3>
 
