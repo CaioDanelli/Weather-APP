@@ -3,7 +3,6 @@
 
 <h3>✅ Style with CSS</h3>
 
-<h3>✅ Add the images</h3>
+<h3>✅ Make JS functions</h3>
 
-<h3>⏳ IN PROGRESS...</h3>
-
+<h3>⏱ Finish project</h3>
